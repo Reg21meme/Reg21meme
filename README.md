@@ -92,7 +92,7 @@ Built a Node.js WebSocket service streaming live vehicle positions to a Next.js 
 
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,django,postgres&theme=dark" />
 
-**Developer Tools &amp; Observability**
+**Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,prometheus,grafana,vscode&theme=dark" />
 
