@@ -10,11 +10,6 @@
 
 I'm a sophomore at **Harvard** studying computer science and statistics. My interests sit at the intersection of **machine learning**, **high-performance systems**, and **full-stack development**. I like taking a problem down to its fundamentals, building it end to end, and getting accurate results.
 
-- Building ML systems and low-latency tooling from the ground up
-- Deep interest in reinforcement learning, distributed training, and MLOps
-- Comfortable across the stack — C++ engines, PyTorch models, and full-stack web apps
-- Driven by correctness, performance, and measurable results
-
 **Open To** — Software Engineering & ML internships · Research opportunities · Open source collaboration
 
 ## Featured Projects
@@ -92,7 +87,7 @@ Built a Node.js WebSocket service streaming live vehicle positions to a Next.js 
 
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,django,postgres&theme=dark" />
 
-**Developer Tools &amp; Observability**
+**Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,prometheus,grafana,vscode&theme=dark" />
 
@@ -131,12 +126,12 @@ current_focus:
   learning:
     - Machine Learning (6.3900)
     - Probability & statistical modeling (STAT 110)
-  building:
-    - Low-latency systems & market microstructure tooling
-    - Deep reinforcement learning agents
-  exploring:
-    - Distributed training & MLOps pipelines
-    - Quantitative research & execution modeling
+    - Data Science (CS 1090A)
+  learning:
+    - ML/MLOps pipelines
+    - AWS
+    - Django
+    - Linux
   open_to:
     - Software Engineering / ML internships
     - Research & open source collaboration
