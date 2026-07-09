@@ -10,6 +10,11 @@
 
 I'm a sophomore at **Harvard** studying computer science and statistics. My interests sit at the intersection of **machine learning**, **high-performance systems**, and **full-stack development**. I like taking a problem down to its fundamentals, building it end to end, and getting accurate results.
 
+- Building ML systems and low-latency tooling from the ground up
+- Deep interest in reinforcement learning, distributed training, and MLOps
+- Comfortable across the stack — C++ engines, PyTorch models, and full-stack web apps
+- Driven by correctness, performance, and measurable results
+
 **Open To** — Software Engineering & ML internships · Research opportunities · Open source collaboration
 
 ## Featured Projects
@@ -81,18 +86,13 @@ Built a Node.js WebSocket service streaming live vehicle positions to a Next.js 
 
 **Machine Learning &amp; Data**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,numpy,pandas,matplotlib,jupyter&theme=dark" />
 
 **Web &amp; Backend**
 
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,django,postgres&theme=dark" />
 
-**Developer Tools**
+**Developer Tools &amp; Observability**
 
 <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,prometheus,grafana,vscode&theme=dark" />
 
@@ -131,12 +131,12 @@ current_focus:
   learning:
     - Machine Learning (6.3900)
     - Probability & statistical modeling (STAT 110)
-    - Data Science (CS 1090A)
-  learnimg:
-    - ML/MLOps 
-    - AWS
-    - Linux
-    - Django
+  building:
+    - Low-latency systems & market microstructure tooling
+    - Deep reinforcement learning agents
+  exploring:
+    - Distributed training & MLOps pipelines
+    - Quantitative research & execution modeling
   open_to:
     - Software Engineering / ML internships
     - Research & open source collaboration
