@@ -1,53 +1,16 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Aarogya%20Regmi&fontSize=50&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
-
-<a href="https://github.com/Reg21meme">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1500&color=0EA5E9&center=true&vCenter=true&width=720&height=45&lines=CS+%2B+Statistics+%40+Harvard;Fast%2C+optimized+systems+for+machine+learning;Open+to+SWE+%26+ML+internships" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Harvard%20University-Computer%20Science%20%26%20Statistics-0EA5E9?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Class%20of-2029-0EA5E9?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Location-Cambridge%2C%20MA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aarogya-r-6739ab291/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:aregmi@college.harvard.edu">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Reg21meme">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Reg21meme&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/Reg21meme?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/Reg21meme/microstructure-lab?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117&label=STARS" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Aarogya%20Regmi&fontSize=50&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" /><br/><br/>
+<a href="https://github.com/Reg21meme"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1500&color=0EA5E9&center=true&vCenter=true&width=720&height=45&lines=CS+%2B+Statistics+%40+Harvard;Fast%2C+optimized+systems+for+machine+learning;Open+to+SWE+%26+ML+internships" alt="Typing SVG" /></a><br/><br/>
+<img src="https://img.shields.io/badge/Harvard%20University-Computer%20Science%20%26%20Statistics-0EA5E9?style=for-the-badge&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Class%20of-2029-0EA5E9?style=for-the-badge&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Location-Cambridge%2C%20MA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" /><br/><br/>
+<a href="https://www.linkedin.com/in/aarogya-r-6739ab291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:aregmi@college.harvard.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Reg21meme"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Reg21meme&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS&labelColor=0D1117" /> <img src="https://img.shields.io/github/followers/Reg21meme?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117&label=FOLLOWERS" /> <img src="https://img.shields.io/github/stars/Reg21meme/microstructure-lab?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117&label=STARS" />
 </div>
-
----
 
 ## About
 
-I'm a sophomore at **Harvard**, with a focus on building systems where performance actually matters — from low-latency C++ engines to deep reinforcement learning agents trained from scratch.
-
-My interests sit at the intersection of **machine learning**, **high-performance systems**, and **quantitative engineering**. I like taking a problem down to its fundamentals, building it end to end, and measuring it honestly — whether that's nanosecond-level execution latency, Elo ratings across hundreds of training generations, or the real gap between a model's ideal and realistic behavior.
-
-- Building ML systems and low-latency tooling from the ground up
-- Deep interest in reinforcement learning, distributed training, and MLOps
-- Comfortable across the stack — C++ engines, PyTorch models, and full-stack web apps
-- Driven by correctness, performance, and measurable results
+I'm a sophomore at **Harvard** studying computer science and statistics. My interests sit at the intersection of **machine learning**, **high-performance systems**, and **full-stack development**. I like taking a problem down to its fundamentals, building it end to end, and getting accurate results.
 
 **Open To** — Software Engineering & ML internships · Research opportunities · Open source collaboration
-
----
 
 ## Featured Projects
 
@@ -108,8 +71,6 @@ Built a Node.js WebSocket service streaming live vehicle positions to a Next.js 
 
 </details>
 
----
-
 ## Tech Stack
 
 <div align="center">
@@ -137,25 +98,23 @@ Built a Node.js WebSocket service streaming live vehicle positions to a Next.js 
 
 </div>
 
----
-
 ## Education
 
 ### Harvard University
-`September 2025 — May 2029` · Cambridge, MA
+
+September 2025 – May 2029 | Cambridge, MA
 
 **B.A. in Computer Science &amp; Statistics**
 
 `Data Structures & Algorithms (CS 1240)` `Linear Algebra (MATH 22A)` `Data Science (CS 1090A/B)` `Probability (STAT 110)`
 
 ### Massachusetts Institute of Technology
-`September 2026 — December 2026` · Cambridge, MA
+
+September 2026 – December 2026 | Cambridge, MA
 
 **Cross-Registration**
 
 `Introduction to Machine Learning (6.3900)`
-
----
 
 ## GitHub Analytics
 
@@ -165,8 +124,6 @@ Built a Node.js WebSocket service streaming live vehicle positions to a Next.js 
 
 </div>
 
----
-
 ## Current Focus
 
 ```yaml
@@ -174,18 +131,16 @@ current_focus:
   learning:
     - Machine Learning (6.3900)
     - Probability & statistical modeling (STAT 110)
-  building:
-    - Low-latency systems & market microstructure tooling
-    - Deep reinforcement learning agents
-  exploring:
-    - Distributed training & MLOps pipelines
-    - Quantitative research & execution modeling
+    - Data Science (CS 1090A)
+  learnimg:
+    - ML/MLOps 
+    - AWS
+    - Linux
+    - Django
   open_to:
     - Software Engineering / ML internships
     - Research & open source collaboration
 ```
-
----
 
 <div align="center">
 
